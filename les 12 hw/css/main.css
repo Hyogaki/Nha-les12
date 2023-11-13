@@ -1,0 +1,96 @@
+header{
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 100px;}
+
+table {
+    border: 3px solid;
+    border-color:black;
+    color: white;
+    background-color:#0a043d;
+    width: 50%;
+    height: 70px;
+}
+
+tr, th, thead,td {
+    border: 3px solid;
+    border-color:black;
+
+}
+
+#LWname{
+    background-color: rgb(218, 181, 137);
+    color:rgb(0, 0, 0)
+}
+
+#LWentrance{
+    background-color: rgb(56, 102, 155);
+}
+
+#LWboss{
+    background-color: rgb(122, 95, 20);
+    color:blue
+}
+
+#LWbossroom{
+    background-color:purple
+}
+
+#DSCname{
+    background-color: rgb(94, 94, 94);
+    color: rgb(199, 199, 199);
+}
+
+#DSCentrance{
+    background-color: blue;
+}
+
+#DSCboss{
+    background-color: orange;
+    color:red
+}
+
+#DSCbossroom{
+    background-color:rgb(185, 107, 6)
+}
+
+#SOTPname{
+    background-color: rgba(165, 42, 42, 0.521);
+    color:rgb(94, 94, 94)
+}
+
+#SOTPentrance{
+    background-color: rgb(233, 233, 130);
+}
+
+#SOTPboss{
+    background-color: brown;
+    color:green
+}
+
+#SOTPbossroom{
+    background-color: bisque;
+}
+
+#VOTDname{
+    background-color: darkgreen;
+    color:lightgreen
+}
+
+#VOTDentrance{
+    background-color: rgb(117, 248, 117);
+}
+
+#VOTDboss{
+    background-color: darkred;
+    color:crimson
+}
+
+#VOTDbossroom{
+    background-color: red;
+}
+
+footer{
+    background-color:rgb(15, 15, 145);
+    width: 100%;
+    height: 100px;}
